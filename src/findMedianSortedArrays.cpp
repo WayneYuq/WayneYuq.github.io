@@ -30,7 +30,7 @@ The median is (2 + 3)/2 = 2.5
 using std::cout;
 using std::vector;
 using std::swap;
-using namespace std;
+
 double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
 
 int main(int argc, char** argv)
